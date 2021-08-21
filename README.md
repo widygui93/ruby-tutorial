@@ -1,2 +1,2 @@
-Repo for learning Ruby programming language
-_Reference_ http://rubylearning.com/
+Repo for learning Ruby programming language..
+**Reference:** http://rubylearning.com/
