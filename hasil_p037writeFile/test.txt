@@ -1,0 +1,2 @@
+created by widy
+credit to http://rubylearning.com/satishtalim/read_write_files.html
